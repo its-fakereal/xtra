@@ -1,0 +1,5 @@
+cmd from recovery utility 
+
+cd C:\Windows\System32
+ren Utilman.exe Utilman1.exe
+ren cmd.exe Utilman.exe

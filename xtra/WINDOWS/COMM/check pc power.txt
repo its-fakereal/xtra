@@ -1,0 +1,5 @@
+powershell in administrator 
+
+
+winsat formal 
+get-ciminstance win32_winsat

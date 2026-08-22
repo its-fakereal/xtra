@@ -1,0 +1,5 @@
+cmd in administrator 
+
+net user
+net user "username" "password for user" /add
+net localgroup Administrators "username" /add
